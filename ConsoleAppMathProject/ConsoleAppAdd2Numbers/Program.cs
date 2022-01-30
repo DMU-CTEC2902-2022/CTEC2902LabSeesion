@@ -10,7 +10,7 @@ namespace ConsoleAppAdd2Numbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Usama");
+            Console.WriteLine("CTEC2902");
             Console.ReadLine();
         }
     }
