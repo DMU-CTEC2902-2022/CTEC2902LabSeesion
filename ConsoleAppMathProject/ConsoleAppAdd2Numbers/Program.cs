@@ -10,6 +10,8 @@ namespace ConsoleAppAdd2Numbers
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Usama");
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\umanna00\source\repos\CTEC2902LabSeesion\ConsoleAppMathProject\ConsoleAppAdd2Numbers\bin\Debug\ConsoleAppAdd2Numbers.exe.config
+C:\Users\umanna00\source\repos\CTEC2902LabSeesion\ConsoleAppMathProject\ConsoleAppAdd2Numbers\bin\Debug\ConsoleAppAdd2Numbers.exe
+C:\Users\umanna00\source\repos\CTEC2902LabSeesion\ConsoleAppMathProject\ConsoleAppAdd2Numbers\bin\Debug\ConsoleAppAdd2Numbers.pdb
+C:\Users\umanna00\source\repos\CTEC2902LabSeesion\ConsoleAppMathProject\ConsoleAppAdd2Numbers\obj\Debug\ConsoleAppAdd2Numbers.csproj.AssemblyReference.cache
+C:\Users\umanna00\source\repos\CTEC2902LabSeesion\ConsoleAppMathProject\ConsoleAppAdd2Numbers\obj\Debug\ConsoleAppAdd2Numbers.csproj.CoreCompileInputs.cache
+C:\Users\umanna00\source\repos\CTEC2902LabSeesion\ConsoleAppMathProject\ConsoleAppAdd2Numbers\obj\Debug\ConsoleAppAdd2Numbers.exe
+C:\Users\umanna00\source\repos\CTEC2902LabSeesion\ConsoleAppMathProject\ConsoleAppAdd2Numbers\obj\Debug\ConsoleAppAdd2Numbers.pdb
